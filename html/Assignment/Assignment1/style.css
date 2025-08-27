@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+
+img {
+    height: 200px;
+    width: 40rem;
+    border-radius: 20px;
+}
+
+
+.nav-bar{
+    height: vh;
+    width: vw;
+    text-align: center;
+    /* background-color: aqua; */
+    /* margin-top: 30px; */
+   
+    
+}
+ul {
+    background-color: rgb(8, 126, 133);
+    border-radius: 20px;
+    border: 3px solid yellow;
+    
+}
+
+.contact{
+    margin-left: 80px;
+    
+}
+.contact a{
+    text-decoration: none;
+}
+.About p{
+    background-color: rgb(8, 133, 106);
+    border-radius: 5px;
+}
+
+.hero-section{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.edu{
+    margin-top: 30px;
+}
+
+table, th, td {
+    border: 3px solid black;
+    background-color: grey;
+ 
+}
+
+th, td {
+    padding: 8px;
+}
+.skl {
+    margin-top: 30px;
+}
+.pro{
+    margin-top: 30px;
+}
+.pro p{
+    background-color: aqua;
+}
+.hob {
+    margin-top: 30px;
+}
+.hob span {
+    margin-right: 20px;
+}
+.foot-panel{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+
+
+
+  
+
+
